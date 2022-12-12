@@ -1,5 +1,7 @@
 # EJBCA PKI [![Discuss](https://img.shields.io/badge/discuss-ejbca-ce?style=flat)](https://github.com/Keyfactor/ejbca-ce/discussions) 
 
+TODO: this is a test modification to see if we can rebase branch after a "push --force" done after a release
+
 EJBCA covers all your needs – from certificate management, registration and enrollment to certificate validation. 
 
 Welcome to EJBCA – the Open Source Certificate Authority (software). EJBCA is one of the longest running CA software projects, providing time-proven robustness, reliability and flexibitlity. EJBCA is platform independent and can easily be scaled out to match the needs of your PKI requirements, whether you’re setting up a national eID, securing your industrial IoT platform or managing your own internal PKI for Enterprise or DevOps. 
